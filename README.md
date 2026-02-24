@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Renan Amaral!
+# 👋 Olá, sou Renan Amaral!
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos  
 🎯 Atualmente estudando para se tornar um desenvoledor Full - Stack  
