@@ -14,6 +14,8 @@ Estou em busca da minha primeira oportunidade na área para aplicar meus conheci
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvarado&layout=compact)](https://github.com/RenanAlvarado)
+
 ## 🛠 Tecnologias que utilizo
 
 <div style="display: inline_block"><br>
