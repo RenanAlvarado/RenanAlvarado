@@ -25,6 +25,10 @@ Estou em busca da minha primeira oportunidade na área para aplicar meus conheci
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Csharp" height="40" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Java" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Android" height="40" width="40"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" />
 </div>
 
 ---
