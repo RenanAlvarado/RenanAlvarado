@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Renan Amaral!
 
-💻 Estudante e entusiasta de Desenvolvimento de Sistemas  
-🎯 Focado em Front-end e construção de interfaces responsivas  
+💻 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Guarulhos  
+🎯 Atualmente estudando para se tornar um desenvoledor Full - Stack  
 📍 Guarulhos - SP  
 
 ---
@@ -9,13 +9,6 @@
 ## 🚀 Sobre mim
 
 Atualmente venho me dedicando ao estudo de desenvolvimento web, com foco principal em **HTML, CSS e JavaScript**.
-
-Tenho praticado bastante:
-- 📱 Responsividade com Media Queries
-- 🎨 Reprodução de layouts reais (como login do Instagram)
-- 🧠 Lógica de programação
-- 🔄 Conceitos como closures no JavaScript
-- 🏗 Estruturação semântica de HTML
 
 Estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos e continuar evoluindo como desenvolvedor.
 
@@ -38,29 +31,10 @@ Estou em busca da minha primeira oportunidade na área para aplicar meus conheci
 
 ---
 
-## 📚 Atualmente estudando
-
-- Responsividade avançada
-- Boas práticas de UI
-- Versionamento com Git e GitHub
-- Conceitos mais profundos de JavaScript
-
----
-
-## 📌 Projetos em destaque
-
-🔹 Clone da tela de login do Instagram  
-🔹 Blog semântico com layout responsivo  
-🔹 Exercícios práticos de lógica e JavaScript  
-
-(Em breve mais projetos 🚀)
-
----
-
 ## 📫 Contato
 
-📧 SeuEmail@email.com  
-🔗 www.linkedin.com/in/seu-linkedin  
+📧 renanalvarado123@email.com  
+🔗 www.linkedin.com/in/renan-amaral1  
 
 ---
 
