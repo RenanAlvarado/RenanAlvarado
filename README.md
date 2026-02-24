@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
 Atualmente venho me dedicando ao estudo de desenvolvimento web, com foco principal em **HTML, CSS e JavaScript**.
 
@@ -14,9 +14,7 @@ Estou em busca da minha primeira oportunidade na área para aplicar meus conheci
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvarado&layout=compact)](https://github.com/RenanAlvarado)
-
-## 🛠 Tecnologias que utilizo
+## 🛠 Tecnologias 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="40"
@@ -31,11 +29,8 @@ Estou em busca da minha primeira oportunidade na área para aplicar meus conheci
 
 ---
 
-## 📫 Contato
+##  Contato
 
 📧 renanalvarado123@email.com  
 🔗 www.linkedin.com/in/renan-amaral1  
 
----
-
-⭐ Sempre aprendendo e buscando evoluir como desenvolvedor!
