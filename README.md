@@ -16,7 +16,7 @@ Estou em busca da minha primeira oportunidade na área para aplicar meus conheci
 
 ## 🛠 Tecnologias 
 
-<div style="display: flex"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="HTML" height="40" width="40"
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40"
