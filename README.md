@@ -18,12 +18,12 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 
 ## Competências
 
-<li>Desenvolvimento de aplicações web responsivas</li>
-<li>Criação e consumo de APIs REST</li>
-<li>Integração entre sistemas</li>
-<li>Lógica de programação e resolução de problemas</li>
-<li>Estruturação e organização de código</li>
-<li>Noções de UX/UI e prototipação</li>
+  <li>Desenvolvimento de aplicações web responsivas</li>
+  <li>Criação e consumo de APIs REST</li>
+  <li>Integração entre sistemas</li>
+  <li>Lógica de programação e resolução de problemas</li>
+  <li>Estruturação e organização de código</li>
+  <li>Noções de UX/UI e prototipação</li>
 
 ---
 
@@ -43,8 +43,9 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 
 ## 📌 Projetos em destaque
 
-<li>Sistema Android para controle de Presença em Eventos</li>
-<li>Catálogo de Brinquedos Web - Integrado a API Rest</li>
+  <li>Sistema Android para controle de Presença em Eventos</li>
+  <li>Sistema Android para Sistema de Estabelecimento integrado a máquina Arduino</li>
+  <li>Catálogo de Brinquedos Web - Integrado a API Rest</li>
 
 ---
 
