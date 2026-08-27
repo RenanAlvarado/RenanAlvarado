@@ -63,10 +63,10 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 
 ## 📊 Minhas Estatísticas
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RenanAlvarado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvarado&layout=compact&theme=dracula"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RenanAlvarado&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvarado&layout=compact&theme=dracula" alt="Linguagens mais utilizadas" height="150" />
+</div>
 
 ---
 
