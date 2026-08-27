@@ -4,6 +4,15 @@
 🎯 Focado em desenvolvimento Full Stack e construção de soluções completas 
 📍 Guarulhos - SP  
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/renan-amaral1" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:renanalvarado123@email.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 ---
 
 ##  Sobre mim
@@ -16,14 +25,12 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 
 ---
 
-## Competências
+## 🎯 Competências e Habilidades
 
-  <li>Desenvolvimento de aplicações web responsivas</li>
-  <li>Criação e consumo de APIs REST</li>
-  <li>Integração entre sistemas</li>
-  <li>Lógica de programação e resolução de problemas</li>
-  <li>Estruturação e organização de código</li>
-  <li>Noções de UX/UI e prototipação</li>
+- **Desenvolvimento Web:** Criação de aplicações responsivas e interfaces modernas.
+- **Backend & APIs:** Criação e consumo de APIs REST, integração entre sistemas.
+- **Engenharia de Software:** Lógica de programação, estruturação de código escalável e limpo.
+- **Design:** Noções sólidas de UX/UI e prototipação.
 
 ---
 
@@ -46,14 +53,20 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 
 ## 📌 Projetos em destaque
 
-  <li>Sistema Android para controle de Presença em Eventos</li>
-  <li>Sistema Android para Sistema de Estabelecimento integrado a máquina Arduino</li>
-  <li>Catálogo de Brinquedos Web - Integrado a API Rest</li>
+ > 💡 *Clique nos links para ver o código fonte e os detalhes de cada projeto.*
+
+- 📱 **[Controle de Presença em Eventos](https://github.com/RenanAlvarado/ProjetoControleDePresenca) (Android/Java):** Sistema mobile desenvolvido para gerenciamento e controle de acesso a eventos.
+- 🤖 **[Sistema de Bar Integrado com Arduino](https://github.com/RenanAlvarado/ProjetoAppBebidas) (Android/Java):** Integração de um aplicativo Android com hardware Arduino para automação de tarefas em estabelecimentos.
+- 🧸 **[Catálogo de Brinquedos Web](https://github.com/RenanAlvarado/Catalogo-de-Brinquedos-Front-End) ( (JavaScript/Spring Boot):** Aplicação web conectada a uma API REST para listagem, cadastro e gerenciamento de um catálogo de produtos.
 
 ---
 
-##  Contato
+## 📊 Minhas Estatísticas
 
-📧 renanalvarado123@email.com  
-🔗 www.linkedin.com/in/renan-amaral1  
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RenanAlvarado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvarado&layout=compact&theme=dracula"/>
+</p>
+
+---
 
