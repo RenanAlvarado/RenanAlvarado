@@ -4,7 +4,9 @@
 🎯 Focado em desenvolvimento Full Stack e construção de soluções completas 
 📍 Guarulhos - SP  
 
-<p align="left"> <a href="https://www.linkedin.com/in/renan-amaral1"> <img src="https://img.shields.io/badge/LinkedIn-Renan%20Amaral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:renanalvarado123@email.com"> <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/renan-amaral1"> <img src="https://img.shields.io/badge/LinkedIn-Renan%20Amaral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:renanalvarado123@email.com">
+  <img src="https://img.shields.io/badge/Email-renanalvarado123%40email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a> </p>
 
 ---
 
@@ -18,7 +20,7 @@ Atualmente, busco uma oportunidade na área de tecnologia onde possa aplicar meu
 
 ---
 
-## 🎯 Competências e Habilidades
+## 🎯 Competências 
 
 - **Desenvolvimento Web:** Criação de aplicações responsivas e interfaces modernas.
 - **Backend & APIs:** Criação e consumo de APIs REST, integração entre sistemas.
@@ -66,6 +68,16 @@ Banco de dados & ferramentas
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenanAlvarado&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenanAlvarado&theme=github_dark&utcOffset=-3" />
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanAlvarado&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
