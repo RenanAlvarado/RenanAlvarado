@@ -4,14 +4,7 @@
 🎯 Focado em desenvolvimento Full Stack e construção de soluções completas 
 📍 Guarulhos - SP  
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/renan-amaral1" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:renanalvarado123@email.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<p align="left"> <a href="https://www.linkedin.com/in/renan-amaral1"> <img src="https://img.shields.io/badge/LinkedIn-Renan%20Amaral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:renanalvarado123@email.com"> <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 ---
 
@@ -21,7 +14,7 @@ Sou desenvolvedor em formação com foco na criação de aplicações web e sist
 
 Busco sempre escrever código limpo, organizado e escalável, priorizando usabilidade, performance e boas práticas de desenvolvimento.
 
-Atualmente, estou em busca da minha primeira oportunidade na área para aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e evoluir constantemente como desenvolvedor.
+Atualmente, busco uma oportunidade na área de tecnologia onde possa aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e evoluir continuamente como desenvolvedor.
 
 ---
 
@@ -34,20 +27,19 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 
 ---
 
-## 🛠 Tecnologias 
+## 🛠 Stack
 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Android" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img alt="Spring Boot" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-</div>
+Front-end
+
+<p> <img src="https://skillicons.dev/icons?i=react,ts,html,css,js" /> </p>
+
+Back-end
+
+<p> <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,cs" /> </p>
+
+Banco de dados & ferramentas
+
+<p> <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode,idea" /> </p>
 
 ---
 
@@ -64,8 +56,17 @@ Atualmente, estou em busca da minha primeira oportunidade na área para aplicar 
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RenanAlvarado&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAlvarado&layout=compact&theme=dracula" alt="Linguagens mais utilizadas" height="150" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RenanAlvarado&theme=github_dark" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RenanAlvarado&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RenanAlvarado&theme=github_dark" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RenanAlvarado&theme=github_dark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RenanAlvarado&theme=github_dark&utcOffset=-3" />
+
 </div>
 
 ---
